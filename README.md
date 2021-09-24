@@ -10,6 +10,3 @@ The aim of this bot is to make turnip selling more reliable, trying to forecast 
 It uses models datamined by the community, based on the prices of the previous days.
 
 Obviously, as it is possible to visit your friends' island, it is even more reliable on a Discord server with friends.
-
-
-## Structure
