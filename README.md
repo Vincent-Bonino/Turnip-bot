@@ -1,5 +1,5 @@
 # Turnips_bot
-Discord bot built using python3.
+Python3 discord bot for Animal Crossing turnips selling price optimization.
 
 ## What is it ?
 In Animal Crossing New Horizon, you can buy and sell turnips. What is interesting is that their selling price follows stock market like variations.
