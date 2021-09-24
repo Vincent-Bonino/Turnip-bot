@@ -1,0 +1,5 @@
+discord.py
+numpy
+matplotlib
+python-dotenv
+unidecode
